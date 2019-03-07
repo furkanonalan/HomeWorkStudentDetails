@@ -11,6 +11,6 @@ namespace StudentDetails.Models
 		public string Soyadi { get; set; }
 		public int StuID { get; set; }
 		public string Email { get; set; }
-		public int Id { get; internal set; }
+		public int Id { get;  set; }
 	}
 }
